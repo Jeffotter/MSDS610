@@ -1,1 +1,7 @@
 csvcut -c 3 -e latin1 file.csv | tail +2 | sort | uniq -c | sort -r -n | head -5 > out.txt
+wc output.csv
+grep 'sales' output.csv | wc
+grep 'sales' output.csv | wc > result.txt
+pdftotext test.txt > greatness.txt
+cat < foo.txt
+ls > bar.txt

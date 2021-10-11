@@ -42,6 +42,5 @@ Here are the steps to walk through this long command stream:
 7.  The final step redirects the output to a txt file to save for easy reference later.
 
     
-Message Britta, Kyril Panfilov, Zhiyi(Renne) Ren, Jeff Ott
 
 

@@ -40,20 +40,8 @@ Here are the steps to walk through this long command stream:
 5.  The output of #4 is then piped into another sort command.  This time 'sort -r -n' includes arguments to sort in reverse order by number.  In this case the sorting will be based on the count added in the previous step with the 'unique -c' command.
 6.  The output of #5 is then piped into the head command to get the top 5 results.
 7.  The final step redirects the output to a txt file to save for easy reference later.
-Collapse
 
-
-
-white_check_mark
-eyes
-raised_hands
-
-
-
-
-
-
-
-Message Britta, Kyril Panfilov, Zhiyi(Renne) Ren, Jeff Ott
+    
+-Message Britta, Kyril Panfilov, Zhiyi(Renne) Ren, Jeff Ott
 
 
